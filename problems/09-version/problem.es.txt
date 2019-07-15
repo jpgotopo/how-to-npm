@@ -15,7 +15,7 @@ La explicación corta es así:
   `------ versión mayor. Incrementa cuando hay cambios de API incompatibles.
 
 npm tiene un comando especial llamado `npm version`, que puede manejar
-la versión en package.json por tii, y además acometer el cambio
+la versión en package.json por ti, y además acometer el cambio
 a git si lo estás usando. Para leer más sobre el tema,
 haz `npm help version`
 
